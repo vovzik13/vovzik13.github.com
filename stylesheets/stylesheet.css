@@ -170,8 +170,8 @@ p.tagline {
 
 .download-bar a.code {
   background: transparent url(../images/code.png) no-repeat 0 2px;
-  padding-left: 32px;
-  margin-top: 32px;
+  padding-left: 35px;
+  margin-top: 8px;
   display: block;
   float: left;
   text-indent: 0;
@@ -254,8 +254,8 @@ a.tar span {
 
 a.code {
   background: transparent url(../images/code.png) no-repeat 0 2px;
-  width: 32px;
-  height: 32px;
+  width: 30px;
+  height: 21px;
   display: block;
   opacity: 0.8;
   display: inline-block;
